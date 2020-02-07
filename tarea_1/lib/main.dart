@@ -90,7 +90,7 @@ class _HomePageState extends State<HomePage> {
                 "BIENVENIDOS",
                 style: TextStyle(
                   fontSize: 35,
-                  fontStyle: FontStyle.italic,
+                  fontFamily: "Tipo_Letra",
                 ),
               ),
             ),

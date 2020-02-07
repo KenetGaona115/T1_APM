@@ -48,6 +48,11 @@ flutter:
   # Con esto declaramos las dependencias, llamse archivos o tipos de letra... etc.
   assets:
     - assets/foto.png
+  
+  fonts:
+    - family: Tipo_Letra
+      fonts:
+        - asset: assets/IndieFlower-Regular.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
